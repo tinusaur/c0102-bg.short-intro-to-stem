@@ -6,7 +6,7 @@ Guidance for AI agents working in this repository.
 
 - **`c0102-bg.short-intro-to-stem`** — sample **learner** course **Кратък увод в STEM** (`C0102`), Bulgarian edition of `c0102-en.short-intro-to-stem`.
 - **Course:** `C0102`. Language: **BG**.
-- Learner tracks **`V11`** (начинаещи читатели) and **`V12`** (по-млади читатели). The matching handbook is **`c0202-bg.short-intro-to-stem`** (`C0202`).
+- Learner tracks **`V11`** (начинаещи читатели) and **`V12`** (по-млади читатели). The matching handbook is **`c0202-bg.short-intro-to-stem`** (`C0202`). There is no BG slides edition; EN slides are **`C0602`**.
 
 ## Canonical spec
 
